@@ -7,11 +7,11 @@
  
 * pip install mechanize
  
-* git clone https://github.com/mrwolf-danger/CHECKPOINT
+* git clone https://github.com/tinbigz/clonefb
 
 #RUN SCRIPT
-* cd CHECKPOINT
+* cd clonefb
  
-* python cp.py
+* python vh.py
 
-"THIS TOOL IS FREE FOR NOW SO ENJOY"
+
